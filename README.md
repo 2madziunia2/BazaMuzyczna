@@ -3,17 +3,17 @@ Baza Albumów muzycznych jest to spis
 najpotrzebniejszych informacji o danych płytach ich
 gatunkach artystach itp. Projekt zawiera następujące
 tabele:
-● plyta
-● utwory
-● plyta_rodzaj
-● gatunek
-● kraj
-● osoba
-● Nagrody
-● zespol
-● plyta_wykonawca
-● zespol_osoba
-● nagroda_wykonawca
+● plyta  
+● utwory  
+● plyta_rodzaj  
+● gatunek  
+● kraj  
+● osoba  
+● Nagrody  
+● zespol  
+● plyta_wykonawca  
+● zespol_osoba  
+● nagroda_wykonawca  
 
 ![image](https://user-images.githubusercontent.com/34864275/124351708-44f3c500-dbfc-11eb-88f4-5dca4c2409cb.png)
 
