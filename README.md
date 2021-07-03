@@ -42,16 +42,16 @@ jest mniejszy od zera
 Gatunków. Procedura wywołuje wyjątek gdy dane id już
 istnieje w bazie
 
-*Rekord jawnie zdefiniowany- Zbiór zmiennych różnych
+*Rekord jawnie zdefiniowany - Zbiór zmiennych różnych
 typów, które mają być wstawione do tabeli ,,Gatunek’’
 
-*Wyjątek zdefiniowany przez użytkownika- Wyjątek jest
+*Wyjątek zdefiniowany przez użytkownika - Wyjątek jest
 wywoływany przez procedurę gdy numer piosenki jest
 mniejszy od zera
 
-*Wyjątek wbudowany- Wyjątek jest wywoływany przez
+*Wyjątek wbudowany - Wyjątek jest wywoływany przez
 procedurę gdy dane id już istnieje w bazie
 
-*Dynamiczny SQL- Procedury mają za zadanie wykonać
+*Dynamiczny SQL - Procedury mają za zadanie wykonać
 INSERT i CREATE (do) nieznanej podczas tworzenia
 procedury tabeli/ nieznanych wartości
