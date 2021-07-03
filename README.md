@@ -56,3 +56,9 @@ procedurę gdy dane id już istnieje w bazie
 *Dynamiczny SQL - Procedury mają za zadanie wykonać
 INSERT i CREATE (do) nieznanej podczas tworzenia
 procedury tabeli/ nieznanych wartości
+
+
+
+
+
+Baza Wykonana jako projekt studencki w 2016 :)
