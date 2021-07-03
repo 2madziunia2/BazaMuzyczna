@@ -14,9 +14,10 @@ tabele:
 ● plyta_wykonawca
 ● zespol_osoba
 ● nagroda_wykonawca
+
 ![image](https://user-images.githubusercontent.com/34864275/124351708-44f3c500-dbfc-11eb-88f4-5dca4c2409cb.png)
 
-DO podstawowej bazy danych zostały dodane zapytania języka PL/SQL takie jak:
+Do podstawowej bazy danych zostały dodane zapytania języka PL/SQL takie jak:
 
 *Kursor - Kursor ma na celu pobranie danych z tabeli
 “osoba” i wyświetlenie czy dany artysta jest Polskim
