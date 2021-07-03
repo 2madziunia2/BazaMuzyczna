@@ -2,7 +2,7 @@
 Baza Albumów muzycznych jest to spis
 najpotrzebniejszych informacji o danych płytach ich
 gatunkach artystach itp. Projekt zawiera następujące
-tabele:
+tabele:  
 ● plyta  
 ● utwory  
 ● plyta_rodzaj  
