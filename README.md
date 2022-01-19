@@ -1,4 +1,4 @@
-# BazaMuzyczna
+# BazaMuzyczna PL/SQL 
 Baza Albumów muzycznych jest to spis
 najpotrzebniejszych informacji o danych płytach ich
 gatunkach artystach itp. Projekt zawiera następujące
